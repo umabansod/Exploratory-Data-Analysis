@@ -402,28 +402,5 @@ order by count(customer_key) desc;
 
 
 
-/* 
-***********************************************************************
-Customer Report 
-***********************************************************************
-
-Purpose :
-	- This report consolidates key customre metrics and behaviors
-
-Highlights:
-1. Gathers essential fields such as names, ages, and transaction details.
-2. Segments customers into categories ( VIP, Regular, New) and age groups.
-3. Aggregates customer-level metrics:
-- Total orders
-- Total sales
-- Total quantity purchased
-- Total products
-- lifespan ( in months ) 
-4. Calculates valuable KIPs:
-- recency ( months since last order )
-- average order values
-- average monthly spend 
-*************************************************************************
-*/
 
 
