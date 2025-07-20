@@ -54,3 +54,8 @@ Delivered a reusable SQL View for integration with Power BI dashboards for custo
 ✔ Age Group Classification
 ✔ Recency and Lifespan
 ✔ Average Order Value & Monthly Spend
+
+## Power BI Dashboard of customer report 
+
+<img width="1263" height="717" alt="image" src="https://github.com/user-attachments/assets/b558bb88-0f1b-44be-98eb-346023e1ad38" />
+
